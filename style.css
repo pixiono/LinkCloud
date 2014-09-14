@@ -1,7 +1,7 @@
 ﻿body {
-	padding-left: 5%;
-	padding-right: 5%;
-	padding-top: 2%;
+	padding-left:6%;
+	padding-right: 6%;
+	padding-top: 5%;
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -17,8 +17,9 @@ input, select {
 	font-weight: 400;
 	color: black;
 	background-color: white;
-	border: none;
-	padding: 0px;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 3px;
 }
 
 select {
