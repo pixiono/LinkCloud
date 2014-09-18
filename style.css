@@ -1,7 +1,7 @@
 ﻿body {
 	padding-left:6%;
 	padding-right: 6%;
-	padding-top: 5%;
+	padding-top: 1%;
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -37,12 +37,17 @@ article ul {
 
 article li {
 	display: block;
-	padding: 8px;
+	padding: 5px;
 }
 
 .link:hover {
 	background-color: #BDC3C7;
 }
+
+/*.link a {
+	border-left: 3px solid #D24D57;
+	padding-left: 7px;
+}*/
 
 article a {
 	text-decoration: none;
@@ -64,9 +69,9 @@ img:hover {
 	margin-bottom: 2px;
 }
 
-footer: {
-	font-size: 10px;
-}
+/*footer {
+	margin-left: 20px;
+}*/
 
 footer a {
 	text-decoration: none;
